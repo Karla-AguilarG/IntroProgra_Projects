@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603593381 source:c:\users\usuario\desktop\introduccion_a_la_programacion_uned_karlaaguilar\karla_aguilar_gonzalez_tarea_garra_831\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<cctype>
+

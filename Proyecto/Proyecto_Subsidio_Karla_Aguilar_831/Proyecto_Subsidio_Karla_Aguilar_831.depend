@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1607173459 source:c:\users\usuario\desktop\proyecto_subsidio_karla_aguilar_831\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+
+1607207305 source:c:\users\usuario\desktop\uned_diplomado_informática_karla\tercer_cuatri_2020\introduccion_a_la_programacion_uned_karlaaguilar\proyecto_subsidio_karla_aguilar_831\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+
